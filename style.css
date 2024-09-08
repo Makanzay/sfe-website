@@ -65,6 +65,7 @@ header nav ul li a {
 
 header nav ul li a:hover {
   background: #a92306;
+  border-radius: 10px;
 }
 
 header .fa-bars {
