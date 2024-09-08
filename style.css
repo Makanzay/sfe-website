@@ -68,13 +68,13 @@ header nav ul li a:hover {
   border-radius: 10px;
 }
 
-header .fa-bars {
+.fa-bars {
   font-size: 4rem;
   color: #a92306;
   cursor: pointer;
   margin: 0 2rem;
   z-index: 20;
-  display: none;
+  display:none;
 }
 
 header .logo {
